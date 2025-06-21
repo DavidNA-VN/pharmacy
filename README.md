@@ -20,7 +20,7 @@ git clone https://github.com/DavidNA-VN/pharmacy.git
 4. Sửa phần têm database và mật khẩu trở thành của bạn 
 ví dụ tên database là QLHT, mật khẩu là datcoi23145
 ![alt text](image.png) 
-5. Thêm toàn bộ các thư viên trong libs ở phần build path
+5. Thêm toàn bộ các thư viên trong libs ở phần build path. Nếu sử dụng PG, add thêm thư viện postgresql.jar
 ![alt text](image-1.png)
 6. Run project ở file **Login.java**
 
