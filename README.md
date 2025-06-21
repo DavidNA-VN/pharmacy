@@ -11,7 +11,7 @@
 ## Getting Started
 1. Tải source code:
 ```sh
-git clone https://github.com/nguyendat160305/Nhom_OOP_Prj
+git clone https://github.com/DavidNA-VN/pharmacy.git
 ```
 2. Copy nội dung file oop_database.sql sau đó dán vào query trong pgAdmin 4 để tạo database 
 ![alt text](image-2.png)
