@@ -1,13 +1,15 @@
 
-## Môn: Lập trình hướng đối tượng
-## Đề tài: **Quản lý Hiệu Thuốc tây**
-
+## Pharmacy Management System
+- The Pharmacy project is a desktop application that helps pharmacies digitalize their operations.
+- It supports product, inventory, customer, supplier, invoice, and employee management, making pharmacy workflows more efficient.
 >
-## Technology
-- Java
-- PostgreSQL
-- Eclipse
-
+## Installation and Running Guide
+1. Clone the repository
+git clone https://github.com/DavidNA-VN/pharmacy.git
+cd pharmacy
+2. Setup Database (PostgreSQL)
+* Create a database in PostgreSQL (e.g. oop_database).
+* Import the provided SQL file (e.g. oop_database.sql) using pgAdmin4 or psql.
 ## Getting Started
 1. Tải source code:
 ```sh
